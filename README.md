@@ -5,4 +5,4 @@
 Para todo meetup que realizarmos, iremos criar uma issue neste repositório com a data do meetup. Depois de submetidas, haverá uma votação com likes. As 3 palestras mais votadas serão escolhidas para serem apresentadas no meetup daquele dia.
 
 ## Entre para o nosso grupo no Telegram
-[https://t.me/ruby-df](https://t.me/ruby-df)
+[https://t.me/rubydf](https://t.me/rubydf)
